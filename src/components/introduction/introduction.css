@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather:100,200,300,300i,400,400i,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:400,700');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400');
+.introduction {
+  text-align: center;
+  display: inline-block;
+}
+
+.introduction-text {
+  margin-bottom: 0;
+}
+
+.form-align {
+  text-align :center;
+  color: #b8c2c6;
+}
+.btn {
+  border: 2px solid #FF0000	;
+}
+
+.data {
+  color: #b8c2c6;
+  font-weight: bold;
+text-transform: capitalize;
+font-family: sans-serif;
+}
